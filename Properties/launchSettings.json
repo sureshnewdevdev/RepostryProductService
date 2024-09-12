@@ -4,7 +4,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:5002", // Port for ProductService
+      "applicationUrl": "http://localhost:5102", // Port for ProductService
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
